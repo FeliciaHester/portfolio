@@ -38,4 +38,4 @@ Good Works Enterprises, LLC  |  2017 - 2020
 - Established foundational processes for business operations and growth
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
 
-### Projects
+## Projects
