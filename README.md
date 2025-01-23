@@ -15,27 +15,42 @@
 
 ## Experience 
 ### SYSTEMS AND OPERATIONS ANALYST 
-Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present
+**Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
 - Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding
 - Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business operations, and solve framework needs around operational processes
 - Discovered code glitch, effecting nearly 1,000 accounts, preventing business processing during a critical season of regulatory deadlines. Immediately took corrective action to solve the issue.  
 
 ### PRACTICE MANAGER
-Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present
+**Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
 - Developed close working relationships and collaborated with outside vendors, back-office professionals, and home office management on business decisions and problem resolution
 - A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations
 - Maintained manual databases for reporting where software systems lacked reporting capabilities
 
 ### FINANCIAL SERVICES PROFESSIONAL
-Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present
+**Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
 - Successfully negotiated several million in client account retainment to maintain and create increased revenue
 - Produced yearly reports to comply with regulations
 - Effectively answered clients' questions about their accounts and/or products in a way they understood, giving them clarity and deepening my relationship with them which contributed to their confidence in our team
 
 ### CHIEF EXECUTIVE OFFICER, BUSINESS ANALYST 
-Good Works Enterprises, LLC  |  2017 - 2020
+**Good Works Enterprises, LLC  |  _2017 - 2020_**
 - Collaborated with legal, accounting, and other professional teams to review and maintain regulatory requirements
 - Established foundational processes for business operations and growth
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
 
 ## Projects
+### Food Hub App
+**Statistics, Univariate and Multivariate Analysis**
+
+Provided key measurable insights surrounding food orders made through the Food Hub App. The goal of the company was to improve customer experience, with the future intention to drive more business to the Food Hub app. Identified what type cuisine the majority of users are ordering, the most popular ordering times, and the median price point of their orders. My findings identified the net revenue generated per order with examples of strategic recommendations for a full circle marketing approach to their growth objective.
+
+### All Life Bank 
+**Segmentation, Standardization Method, PCA Technique, K-Medoids Method, Gaussian Mixture Models (GMMs)**
+
+Identified existing All Life Bank customer groups and gained insight into their spending habits and behaviors. Segmented customer groups which could be marketed to, for various goals in line with All Life’s focus in the coming financial year, and to address known challenges across various departments. Provided actionable solutions to equip the Marketing and Operations Team in their objectives, along with enough data from my analysis to foster additional campaigns beneficial to AllLife in support of their goals.
+
+### Second Life Automotive
+**PCA Technique, t-SNE Technique, Dimensionality Reduction**
+
+Analyzed Second Life's past sales from their outlets across the U.S. Provided what dominate attributes were present in the varying groups of cars, and insight into consumer groups who previously purchased. Findings equipped Second Life with a well-rounded selection of features to fill their inventory and recommendations on how to utilize their hot market as a resource to increase sales. 
+
