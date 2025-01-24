@@ -1,5 +1,7 @@
 # Data Analyst
 
+logo: FeliciaHester_ProfilePhoto.jpeg
+
 ## Education
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
 - UNIVERSITY OF SOUTHERN MISSISSIPPI 
