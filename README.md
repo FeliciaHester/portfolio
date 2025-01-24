@@ -1,6 +1,6 @@
 # Data Analyst
 
-logo: FeliciaHester_ProfilePhoto.jpeg
+logo: /assets/FeliciaHester_ProfilePhoto.jpeg
 
 ## Education
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
