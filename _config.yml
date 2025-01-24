@@ -4,6 +4,6 @@ description: MIT trained Data Analyst. Connecting data dots using Python & Excel
 show_downloads: true
 remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 gem:
-  - "github-pages", group: :jekyll_plugins
+- "github-pages", group: :jekyll_plugins
