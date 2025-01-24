@@ -2,7 +2,14 @@ title: Felicia Hester
 logo: /assets/FeliciaHester_ProfilePhoto.jpeg
 description: MIT trained Data Analyst. Connecting data dots using Python & Excel formulas. 
 Telling the data story using logic & creativity.
+baseurl: "/portfolio"  # the subpath of site, e.g. /blog
+url: "https://FeliciaHester.github.io"  # the base hostname & protocol for site
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
+
+
+
+
+
