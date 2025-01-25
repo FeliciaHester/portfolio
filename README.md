@@ -62,7 +62,7 @@ Identified existing All Life Bank customer groups and gained insight into their 
 
 [Second Life Automotive Business Report](https://github.com/FeliciaHester/Second-Life-Automotive-Project/blob/main/ePortfolio_Second%20Life%20Automotive%20Project_PDF.pdf)
 
-[Second Life Bank Automotive Portfoliio](https://github.com/FeliciaHester/Second-Life-Automotive-Project/blob/main/1_21_25_Copy_of_Second_Life_Automotive_Project.ipynb)
+[Second Life Automotive Portfoliio](https://github.com/FeliciaHester/Second-Life-Automotive-Project/blob/main/1_21_25_Copy_of_Second_Life_Automotive_Project.ipynb)
 
 Analyzed Second Life's past sales from their outlets across the U.S. Provided what dominate attributes were present in the varying groups of cars, and insight into consumer groups who previously purchased. Findings equipped Second Life with a well-rounded selection of features to fill their inventory and recommendations on how to utilize their hot market as a resource to increase sales. 
 
