@@ -50,7 +50,7 @@ Provided key measurable insights surrounding food orders made through the Food H
 ### All Life Bank 
 **Segmentation, Standardization Method, PCA Technique, K-Medoids Method, Gaussian Mixture Models (GMMs)**
 
-[All Life Bank Business Report] (https://github.com/FeliciaHester/All-Life-Bank-Project/blob/main/ePortfolio_All%20Life%20Bank%20Project_PDF.pdf)
+[All Life Bank Business Report](https://github.com/FeliciaHester/All-Life-Bank-Project/blob/main/ePortfolio_All%20Life%20Bank%20Project_PDF.pdf)
 [All Life Bank Code Portfoliio] (https://github.com/FeliciaHester/All-Life-Bank-Project/blob/main/1_21_25_Copy_of_All_Life_Bank_Project.ipynb)
 
 Identified existing All Life Bank customer groups and gained insight into their spending habits and behaviors. Segmented customer groups which could be marketed to, for various goals in line with All Life’s focus in the coming financial year, and to address known challenges across various departments. Provided actionable solutions to equip the Marketing and Operations Team in their objectives, along with enough data from my analysis to foster additional campaigns beneficial to AllLife in support of their goals.
