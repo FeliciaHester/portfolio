@@ -48,7 +48,7 @@
 
 Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
 
-![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.png)
+![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.jpg)
 
 ### Food Hub App
 **Statistics, Descriptive & Qualitative Analysis**
@@ -59,7 +59,7 @@ Defined the most profitable segment of customers and segment of goods based on p
 
 Provided key measurable insights surrounding food orders made through the Food Hub App. The goal of the company was to improve customer experience, with the future intention to drive more business to the Food Hub app. Identified what type cuisine the majority of users are ordering, the most popular ordering times, and the median price point of their orders. My findings identified the net revenue generated per order with examples of strategic recommendations for a full circle marketing approach to their growth objective.
 
-![Food Hub App](assets/Food Hub App Thumbnail.png)
+![Food Hub App](assets/Food Hub App Thumbnail.jpg)
 
 ### All Life Bank 
 **Segmentation, Standardization Method, PCA Technique, K-Medoids Method, Gaussian Mixture Models (GMMs)**
@@ -70,7 +70,7 @@ Provided key measurable insights surrounding food orders made through the Food H
 
 Identified existing All Life Bank customer groups and gained insight into their spending habits and behaviors. Segmented customer groups which could be marketed to, for various goals in line with All Life’s focus in the coming financial year, and to address known challenges across various departments. Provided actionable solutions to equip the Marketing and Operations Team in their objectives, along with enough data from my analysis to foster additional campaigns beneficial to AllLife in support of their goals.
 
-![All Life Bank](assets/All Life Bank Thumbnail.png)
+![All Life Bank](assets/All Life Bank Thumbnail.jpg)
 
 ### Second Life Automotive
 **PCA Technique, t-SNE Technique, Dimensionality Reduction**
@@ -81,4 +81,4 @@ Identified existing All Life Bank customer groups and gained insight into their 
 
 Analyzed Second Life's past sales from their outlets across the U.S. Provided what dominate attributes were present in the varying groups of cars, and insight into consumer groups who previously purchased. Findings equipped Second Life with a well-rounded selection of features to fill their inventory and recommendations on how to utilize their hot market as a resource to increase sales. 
 
-![Second Life Automotive](assets/Second Life Automotive Thumbnail.png)
+![Second Life Automotive](assets/Second Life Automotive Thumbnail.jpg)
