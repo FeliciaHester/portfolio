@@ -32,11 +32,12 @@
 - Produced yearly reports to comply with regulations
 - Effectively answered clients' questions about their accounts and/or products in a way they understood, giving them clarity and deepening my relationship with them which contributed to their confidence in our team
 
-### CHIEF EXECUTIVE OFFICER, BUSINESS ANALYST 
+### FOUNDER 
 **Good Works Enterprises, LLC  |  _2017 - 2020_**
-- Collaborated with legal, accounting, and other professional teams to review and maintain regulatory requirements
-- Established foundational processes for business operations and growth
+- Established and responsible for foundational processes for business operations and growth
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
+- Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation
+
 
 ## Projects
 
