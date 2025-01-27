@@ -40,7 +40,7 @@
 
 ## Projects
 
-(https://github.com/FeliciaHester/portfolio/blob/main/assets/Marketing%20Segmentation%20Thumbnail.png)
+<img https://github.com/FeliciaHester/portfolio/blob/main/assets/Marketing%20Segmentation%20Thumbnail.png>
 
 ### Capstone Marketing Segmentation
 **Unsupervised Learning, Filering, Heatmap and K Means clustering**
