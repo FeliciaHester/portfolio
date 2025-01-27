@@ -1,6 +1,6 @@
-# theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/default.css"
+theme: jekyll-theme-minimal
+# remote_theme: mmistakes/so-simple-theme
+# skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Felicia Hester"
 description: "Connecting data dots using Python & Excel formulas. Telling the data story using logic & creativity."
@@ -15,9 +15,9 @@ words_per_minute: 200
 #  combo: "tex-mml-chtml"
 #  tags: "none"
 google_fonts:
-  - name: "Serif"
+  - name: "Helvetica Neue"
     weights: "400,400i,700,700i"
-  - name: "Serif"
+  - name: "Helvetica Neue"
     weights: "400,400i,700,700i"
 # google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 
