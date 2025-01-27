@@ -39,9 +39,8 @@
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
 
 ## Projects
-
 ### Capstone Marketing Segmentation
-**Unsupervised Learning, Filtering, Heatmap and K Means clustering**
+**Unsupervised Learning using T-SNE, PCA, Clustering via K-Means, and Heatmapping**
 
 [Capstone Marketing Segmentation Report](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/ePortfolio_Capstone_Marketing_Segmentation_PDF.pdf)
 
