@@ -42,9 +42,9 @@
 ### Capstone Marketing Segmentation
 **Unsupervised Learning, Filering, Heatmap and K Means clustering**
 
-[Capstone Marketing Segmentation Report]
+[Capstone Marketing Segmentation Report](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/ePortfolio_Capstone_Marketing_Segmentation_PDF.pdf)
 
-[Capstone Marketing Segmentation Coding Notebook]
+[Capstone Marketing Segmentation Coding Notebook](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/1_21_25_Copy_of_Capstone_Marketing_Campaign_Project.ipynb)
 
 Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
 
