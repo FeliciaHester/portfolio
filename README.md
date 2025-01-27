@@ -39,8 +39,17 @@
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
 
 ## Projects
+### Capstone Marketing Segmentation
+**Unsupervised Learning, Filering, Heatmap and K Means clustering**
+
+[Capstone Marketing Segmentation Report]
+
+[Capstone Marketing Segmentation Coding Notebook]
+
+Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
+
 ### Food Hub App
-**Statistics, Univariate and Multivariate Analysis**
+**Statistics, Descriptive & Qualitative Analysis**
 
 [Food Hub App Business Report](https://github.com/FeliciaHester/Food-Hub-App-Project/blob/main/ePortfolio_Food%20Hub%20Order%20Project_PDF.pdf) 
 
