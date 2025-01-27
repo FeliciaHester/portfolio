@@ -1,14 +1,32 @@
+# at top
 title: Felicia Hester
-logo: /assets/FeliciaHester_ProfilePhoto.jpeg
-description: 
-  
 
-  show_downloads: false
-  
+# picture
+logo: /assets/FeliciaHester_ProfilePhoto.jpeg
+
+#under picture
+description: 
+
+# skip 
+nothing:
+
+# skip 
+show_downloads: false
+
+#skip
+nothing:
+
+# skip  
+nothing:
+
 google_analytics: |
   baseurl: /portfolio 
   url: https://feliciahester.github.io/
-  
+ 
+# skip
+nothing:
+
+#skip
 theme: jekyll-theme-minimal
 
 # skip 
@@ -38,11 +56,5 @@ author:
   links:
     - title: GitHub
       url: https://feliciahester.github.io/portfolio/
-      icon: fab fa-github-square
+      # icon: fab fa-github-square
 
-# Footer Links
-#footer_links:
-#  - title: GitHub
-#    url: https://feliciahester.github.io/portfolio/
-#    icon: fab fa-github-square
- 
