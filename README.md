@@ -41,9 +41,10 @@
 
 ## Projects
 
+###      MARKETING SEGMENTATION
+
 ![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.jpg)
 
-### MARKETING SEGMENTATION
 **Unsupervised Learning using T-SNE, PCA, Clustering via K-Means, and Heatmapping**
 
 [Capstone Marketing Segmentation Report](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/ePortfolio_Capstone_Marketing_Segmentation_PDF.pdf)
@@ -52,9 +53,10 @@
 
 Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
 
+###      FOOD HUB APP
+
 ![Food Hub App](assets/Food Hub App Thumbnail.jpg)
 
-### FOOD HUB APP
 **Statistics, Descriptive & Qualitative Analysis**
 
 [Food Hub App Business Report](https://github.com/FeliciaHester/Food-Hub-App-Project/blob/main/ePortfolio_Food%20Hub%20Order%20Project_PDF.pdf) 
@@ -63,9 +65,10 @@ Defined the most profitable segment of customers and segment of goods based on p
 
 Provided key measurable insights surrounding food orders made through the Food Hub App. The goal of the company was to improve customer experience, with the future intention to drive more business to the Food Hub app. Identified what type cuisine the majority of users are ordering, the most popular ordering times, and the median price point of their orders. My findings identified the net revenue generated per order with examples of strategic recommendations for a full circle marketing approach to their growth objective.
 
+###      ALL LIFE BANK 
+
 ![All Life Bank](assets/All Life Bank Thumbnail.jpg)
 
-### ALL LIFE BANK 
 **Segmentation, Standardization Method, PCA Technique, K-Medoids Method, Gaussian Mixture Models (GMMs)**
 
 [All Life Bank Business Report](https://github.com/FeliciaHester/All-Life-Bank-Project/blob/main/ePortfolio_All%20Life%20Bank%20Project_PDF.pdf)
@@ -74,9 +77,10 @@ Provided key measurable insights surrounding food orders made through the Food H
 
 Identified existing All Life Bank customer groups and gained insight into their spending habits and behaviors. Segmented customer groups which could be marketed to, for various goals in line with All Life’s focus in the coming financial year, and to address known challenges across various departments. Provided actionable solutions to equip the Marketing and Operations Team in their objectives, along with enough data from my analysis to foster additional campaigns beneficial to AllLife in support of their goals.
 
+###      SECOND LIFE AUTOMOTIVE
+
 ![Second Life Automotive](assets/Second Life Automotive Thumbnail.jpg)
 
-### SECOND LIFE AUTOMOTIVE
 **PCA Technique, t-SNE Technique, Dimensionality Reduction**
 
 [Second Life Automotive Business Report](https://github.com/FeliciaHester/Second-Life-Automotive-Project/blob/main/ePortfolio_Second%20Life%20Automotive%20Project_PDF.pdf)
