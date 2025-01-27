@@ -1,3 +1,4 @@
+# Data Analyst
 
 ## <ins>Education</ins>
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
