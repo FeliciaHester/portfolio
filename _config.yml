@@ -1,12 +1,13 @@
-theme: jekyll-theme-minimal
-
-
 title: Felicia Hester
-
-description: Connecting data dots using Python & Excel formulas. Telling the data story using logic & creativity.
-baseurl: /portfolio 
-url: https://feliciahester.github.io/
-logo: /assets/FeliciaHester_ProfilePhoto.jpeg 
+logo: /assets/FeliciaHester_ProfilePhoto.jpeg
+description: |
+  Connecting data dots using Python & Excel formulas. 
+  Telling the data story using logic & creativity.
+show_downloads: true
+google_analytics: |
+  baseurl: /portfolio 
+  url: https://feliciahester.github.io/
+theme: jekyll-theme-minimal
 
 # skip 
 
