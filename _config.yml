@@ -8,11 +8,11 @@ baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
 url: "https://feliciahester.github.io/" # the base hostname & protocol for your site e.g. "https://feliciahester.github.io/"
 logo: "/assets/FeliciaHester_ProfilePhoto.jpeg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
-# read_time: true
-# words_per_minute: 200
-# mathjax:
-#  enable: true
-#  combo: "tex-mml-chtml"
+read_time: true
+words_per_minute: 200
+mathjax:
+enable: true
+combo: "tex-mml-chtml"
 #  tags: "none"
 google_fonts:
   - name: "Helvetica Neue"
@@ -30,9 +30,9 @@ markdown: kramdown
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: false
@@ -53,7 +53,7 @@ search_full_content: false
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# plugins:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
