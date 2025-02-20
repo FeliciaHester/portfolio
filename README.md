@@ -16,28 +16,31 @@
 ## <ins>Experience</ins> 
 ### SYSTEMS AND OPERATIONS ANALYST 
 **Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
-- Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding
-- Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business operations, and solve framework needs around operational processes
-- Discovered code glitch, effecting nearly 1,000 accounts, preventing business processing during a critical season of regulatory deadlines. Immediately took corrective action to solve the issue.  
+- Ensured accurate reporting of several billion in assets.
+- Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding.
+- Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business. operations, and solve framework needs around operational processes.
+- Discovered code glitch effecting nearly 1,000 accounts and impacting business processing during a critical season of regulatory deadlines. Immediately took corrective action to solve the issue.  
+- Impacted organizational change by providing insights on business submission processes and suggested changes and/or improvements. 
 
 ### PRACTICE MANAGER
-**Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
+**Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
 - Developed close working relationships and collaborated with outside vendors, back-office professionals, and home office management on business decisions and problem resolution
-- A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations
-- Maintained manual databases for reporting where software systems lacked reporting capabilities
+- A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations.
+- Maintained manual databases to satisfy reporting where software systems lacked capabilities.
 
 ### FINANCIAL SERVICES PROFESSIONAL
-**Securian Financial  |  Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
-- Successfully negotiated several million in client account retainment to maintain and create increased revenue
-- Produced yearly reports to comply with regulations
-- Effectively answered clients' questions about their accounts and/or products in a way they understood, giving them clarity and deepening my relationship with them which contributed to their confidence in our team
+**Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
+- Successfully negotiated several million in client account retainment to maintain and create increased revenue.
+- Produced yearly reports to comply with regulations.
+- Effectively answered clients' questions about their accounts and/or products in a way they understood; giving them clarity and deepening my relationship with them, which contributed to their confidence in our team
 
 ### FOUNDER 
 **Good Works Enterprises, LLC  |  _2017 - 2020_**
-- Established and responsible for foundational processes for business operations and growth
-- Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships
-- Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation
-
+- Established and responsible for foundational processes for business operations and growth.
+- Built and maintained website, sales funnels, and marketing campaigns.
+- Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships.
+- Provided Operational and Strategy Consulting to other business owners. 
+- Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation.
 
 ## <ins>Projects</ins>
 
@@ -64,6 +67,8 @@ Defined the most profitable segment of customers and segment of goods based on p
 [Food Hub App Coding Notebook](https://github.com/FeliciaHester/Food-Hub-App-Project/blob/main/1_21_25_Copy_of_Food_Hub_Project.ipynb)
 
 Provided key measurable insights surrounding food orders made through the Food Hub App. The goal of the company was to improve customer experience, with the future intention to drive more business to the Food Hub app. Identified what type cuisine the majority of users are ordering, the most popular ordering times, and the median price point of their orders. My findings identified the net revenue generated per order with examples of strategic recommendations for a full circle marketing approach to their growth objective.
+
+![Food Hub Project Commendation](assets/Food Hub Project Commendation.jpg)
 
 ### ***ALL LIFE BANK*** 
 
