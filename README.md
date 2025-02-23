@@ -1,4 +1,4 @@
-# Data Analyst
+# Operations / Project Management
 
 ## <ins>Education</ins>
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
