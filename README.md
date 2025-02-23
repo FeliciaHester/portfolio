@@ -68,7 +68,7 @@ Defined the most profitable segment of customers and segment of goods based on p
 
 Provided key measurable insights surrounding food orders made through the Food Hub App. The goal of the company was to improve customer experience, with the future intention to drive more business to the Food Hub app. Identified what type cuisine the majority of users are ordering, the most popular ordering times, and the median price point of their orders. My findings identified the net revenue generated per order with examples of strategic recommendations for a full circle marketing approach to their growth objective.
 
-
+![Food Hub Project Commendation](assets/Food Hub Project Commendation.jpg
 
 ### ***ALL LIFE BANK*** 
 
