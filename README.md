@@ -50,18 +50,6 @@
 - Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation.
 
 ## <ins>Projects</ins>
-![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.jpg)
-
-**- Unsupervised Learning using T-SNE, PCA, Clustering via K-Means, and Heatmapping**
-
-[Capstone Marketing Segmentation Report](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/ePortfolio_Capstone_Marketing_Segmentation_PDF.pdf)
-
-[Capstone Marketing Segmentation Coding Notebook](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/1_21_25_Copy_of_Capstone_Marketing_Campaign_Project.ipynb)
-
-Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
-
-![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
-
 ![Food Hub App](assets/Food Hub App Thumbnail.jpg)
 
 **- Statistics, Descriptive & Qualitative Analysis**
@@ -95,5 +83,17 @@ Identified existing All Life Bank customer groups and gained insight into their 
 [Second Life Automotive Coding Notebook](https://github.com/FeliciaHester/Second-Life-Automotive-Project/blob/main/1_21_25_Copy_of_Second_Life_Automotive_Project.ipynb)
 
 Analyzed Second Life's past sales from their outlets across the U.S. Provided what dominate attributes were present in the varying groups of cars, and insight into consumer groups who previously purchased. Findings equipped Second Life with a well-rounded selection of features to fill their inventory and recommendations on how to utilize their hot market as a resource to increase sales. 
+
+![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.jpg)
+
+**- Unsupervised Learning using T-SNE, PCA, Clustering via K-Means, and Heatmapping**
+
+[Capstone Marketing Segmentation Report](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/ePortfolio_Capstone_Marketing_Segmentation_PDF.pdf)
+
+[Capstone Marketing Segmentation Coding Notebook](https://github.com/FeliciaHester/Capstone-Marketing-Segmentation/blob/main/1_21_25_Copy_of_Capstone_Marketing_Campaign_Project.ipynb)
+
+Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
+
+![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
 
 
