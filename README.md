@@ -20,28 +20,28 @@
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
 ## <ins>Experience</ins> 
-### SYSTEMS AND OPERATIONS ANALYST 
-***:black_small_square: Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present :black_small_square:***
+### ▪️ SYSTEMS AND OPERATIONS ANALYST ▪️
+***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
 - Ensured accurate reporting of several billion in assets.
 - Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding.
 - Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business. operations, and solve framework needs around operational processes.
 - Discovered code glitch effecting nearly 1,000 accounts and impacting business processing during a critical season of regulatory deadlines. Immediately took corrective action to solve the issue.  
 - Impacted organizational change by providing insights on business processes along with actionable changes and/or improvements. 
 
-### PRACTICE MANAGER
+### ▪️ PRACTICE MANAGER ▪️
 ***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
 - Developed close working relationships and collaborated with outside vendors, back-office professionals, and home office management on business decisions and problem resolution
 - A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations.
 - Maintained manual databases to satisfy reporting where software systems lacked capabilities.
 - Perform administrative duties and service existing and new client accounts in every capacity.
 
-### FINANCIAL SERVICES PROFESSIONAL
+### ▪️ FINANCIAL SERVICES PROFESSIONAL ▪️
 ***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
 - Successfully negotiated several million in client account retainment to maintain and create increased revenue.
 - Produced yearly reports to comply with regulations.
 - Effectively answered clients' questions about their accounts and/or products in a way they understood; giving them clarity and deepening my relationship with them, which contributed to their confidence in our team.
 
-### FOUNDER 
+### ▪️ FOUNDER ▪️
 ***Good Works Enterprises, LLC  |  2017 - 2020***
 - Provided clarity on goals and a plan to accomplish such via Operational and Strategy Consulting Services to other business owners. 
 - Established and responsible for foundational processes for business operations and growth.
