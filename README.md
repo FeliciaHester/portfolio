@@ -50,9 +50,6 @@
 - Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation.
 
 ## <ins>Projects</ins>
-
-### ***MARKETING SEGMENTATION***
-
 ![Marketing Segmentation](assets/Marketing Segmentation Thumbnail.jpg)
 
 **- Unsupervised Learning using T-SNE, PCA, Clustering via K-Means, and Heatmapping**
@@ -64,8 +61,6 @@
 Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
 
 ![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
-
-### ***FOOD HUB APP***
 
 ![Food Hub App](assets/Food Hub App Thumbnail.jpg)
 
@@ -79,8 +74,6 @@ Provided key measurable insights surrounding food orders made through the Food H
 
 ![Food Hub Project Commendation](assets/Food Hub Project Commendation.jpg)
 
-### ***ALL LIFE BANK*** 
-
 ![All Life Bank](assets/All Life Bank Thumbnail.jpg)
 
 **- Segmentation, Standardization Method, PCA Technique, K-Medoids Method, Gaussian Mixture Models (GMMs)**
@@ -92,8 +85,6 @@ Provided key measurable insights surrounding food orders made through the Food H
 Identified existing All Life Bank customer groups and gained insight into their spending habits and behaviors. Segmented customer groups which could be marketed to, for various goals in line with All Life’s focus in the coming financial year, and to address known challenges across various departments. Provided actionable solutions to equip the Marketing and Operations Team in their objectives, along with enough data from my analysis to foster additional campaigns beneficial to AllLife in support of their goals.
 
 ![All Life & Second Life Project Commendation](assets/All Life Projects Commendation.jpg)
-
-### ***SECOND LIFE AUTOMOTIVE***
 
 ![Second Life Automotive](assets/Second Life Automotive Thumbnail.jpg)
 
