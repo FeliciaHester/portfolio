@@ -95,6 +95,5 @@ Analyzed Second Life's past sales from their outlets across the U.S. Provided wh
 Defined the most profitable segment of customers and segment of goods based on previous purchasing habits and sales. The insights were used to craft an effective marketing campaign combined with various product strategies. An abundance of correlated data was extracted to use for multiple marketing campaigns across various customer groups.
 
 ![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
-
-[!NOTE] 
-Not Shown: Numerous financial industry related projects which can not be displayed for public viewing due to protected contents.
+ 
+📍 Not Shown: Numerous financial industry related projects which can not be displayed for public viewing due to protected contents.
