@@ -43,7 +43,7 @@
 
 ### FOUNDER 
 **Good Works Enterprises, LLC  |  _2017 - 2020_**
-- Provided Operational and Strategy Consulting to other business owners. 
+- Provided clarity on goals and a plan to accomplish such via Operational and Strategy Consulting Services to other business owners. 
 - Established and responsible for foundational processes for business operations and growth.
 - Built and maintained website, sales funnels, and marketing campaigns.
 - Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships.
