@@ -21,7 +21,7 @@
 
 ## <ins>Experience</ins> 
 ### SYSTEMS AND OPERATIONS ANALYST 
-  ***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
+***:black_small_square: Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present :black_small_square:***
 - Ensured accurate reporting of several billion in assets.
 - Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding.
 - Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business. operations, and solve framework needs around operational processes.
@@ -29,7 +29,7 @@
 - Impacted organizational change by providing insights on business processes along with actionable changes and/or improvements. 
 
 ### PRACTICE MANAGER
-  ***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
+***Cetera Advisor Networks - Shoemaker Financial, RIA  |  2020 – Present***
 - Developed close working relationships and collaborated with outside vendors, back-office professionals, and home office management on business decisions and problem resolution
 - A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations.
 - Maintained manual databases to satisfy reporting where software systems lacked capabilities.
@@ -42,7 +42,7 @@
 - Effectively answered clients' questions about their accounts and/or products in a way they understood; giving them clarity and deepening my relationship with them, which contributed to their confidence in our team.
 
 ### FOUNDER 
-  ***Good Works Enterprises, LLC  |  2017 - 2020***
+***Good Works Enterprises, LLC  |  2017 - 2020***
 - Provided clarity on goals and a plan to accomplish such via Operational and Strategy Consulting Services to other business owners. 
 - Established and responsible for foundational processes for business operations and growth.
 - Built and maintained website, sales funnels, and marketing campaigns.
@@ -96,4 +96,5 @@ Defined the most profitable segment of customers and segment of goods based on p
 
 ![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
 
-[!NOTE] Numerous financial industry related projects which can not be displayed for public viewing due to containing protected personal information.
+[!NOTE] 
+Not Shown: Numerous financial industry related projects which can not be displayed for public viewing due to protected contents.
