@@ -17,6 +17,8 @@
 - Collaboration and Communication
 - Teaching
 
+![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
+
 ## <ins>Experience</ins> 
 ### SYSTEMS AND OPERATIONS ANALYST 
 **Cetera Advisor Networks - Shoemaker Financial, RIA  |  _2020 – Present_**
