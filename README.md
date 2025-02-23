@@ -4,6 +4,8 @@
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
 - UNIVERSITY OF SOUTHERN MISSISSIPPI 
 
+![Overall Project Commendation](assets/Overall Project Commendation.jpg)
+
 ## <ins>Skills</ins>
 - Python and Statistics
 - Artificial Intelligence
