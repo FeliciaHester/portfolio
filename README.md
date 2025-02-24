@@ -96,4 +96,4 @@ Defined the most profitable segment of customers and segment of goods based on p
 
 ![Marketing Segmentation Project Commendation](assets/Marketing Segmentation Commendation.jpg)
  
-📍 Not Shown: Numerous financial industry related projects which can not be displayed for public viewing due to protected contents.
+📍 Not Shown: Numerous financial industry related projects which can not be displayed for public viewing due to protected content.
