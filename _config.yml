@@ -24,25 +24,7 @@ google_analytics: |
 nothing:
 
 #skip
-theme: jekyll-theme-minimal
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
-
-# skip 
+theme: jekyll-theme-minimal 
 
 author:
   name: Felicia Hester
