@@ -52,3 +52,19 @@ author:
       url: https://feliciahester.github.io/portfolio/
       # icon: fab fa-github-square
 
+links:
+    name: Felicia Davis Hester
+    url: https://platform.linkedin.com/badges/js/profile.js
+    picture: badge-base LI-profile-badge
+    data locale: en_US
+    data size: medium
+    data theme: light
+    data type: VERTICAL
+    data vanity: feliciadhester
+    data version: v1
+    class: badge-base__link LI-simple-link
+    href: https://www.linkedin.com/in/feliciadhester?trk=profile-badge
+
+
+    
+
