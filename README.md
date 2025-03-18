@@ -1,4 +1,4 @@
-# Operations / Project Management
+# Analyst / Operations / Project Management
               
 ## <ins>Education</ins>
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
@@ -7,15 +7,14 @@
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Skills</ins>
+- Finance
 - Business Intelligence
-- Project Development and Management
-- System and Process Mapping
-- Advanced Data Analysis and Synthesis
 - Advanced Reporting: Research, Planning, Outlining
 - Python and Excel
-- Budgeting
+- Advanced Data Analysis and Synthesis
+- Project Development and Management
+- System and Process Mapping
 - Collaboration and Communication
-- Teaching
 
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
