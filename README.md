@@ -7,7 +7,7 @@
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Skills</ins>
-- Finance
+- Financial Services
 - Business Intelligence
 - Advanced Reporting: Research, Planning, Outlining
 - Python and Excel
