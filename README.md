@@ -7,14 +7,20 @@
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Skills</ins>
-- Financial Services
-- Business Intelligence
-- Advanced Reporting: Research, Planning, Outlining
-- Python and Excel
-- Advanced Data Analysis and Synthesis
-- Project Development and Management
-- System and Process Mapping
-- Collaboration and Communication
+- Wealth Management 
+- Data Analysis
+- Data Validation & Reconciliation
+- Data Governance & Management
+- System Enhancements & Improvements
+- Data Modeling
+- Data Migration
+- Advanced Reporting
+- Python Coding and Advanced Excel
+- Communication  and Collaboration Skills
+- Analytical
+- Detail Oriented
+- Organized
+- Self-Starter and Proactive
 
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
