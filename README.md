@@ -1,4 +1,4 @@
-# Analyst / Operations / Project Management
+# Analyst / Financial Services / Operations 
               
 ## <ins>Education</ins>
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
