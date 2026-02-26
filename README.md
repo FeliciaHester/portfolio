@@ -1,4 +1,16 @@
-# Analyst / Financial Services / Operations 
+# Financial Services - Operations / Analyst
+
+## <ins>Professional Summary</ins>
+Director of Operations with extensive experience leading wealth management operations, trading execution, and financial
+process governance within broker-dealer and RIA environments. FINRA-licensed General Securities Representative and
+MIT-trained Data Analyst with expertise in investment operations, account funding workflows, portfolio allocation
+implementation, cash management, and operational risk mitigation.
+
+Proven leader in designing scalable operational frameworks, internal control systems, and reporting dashboards to
+improve trading accuracy, workflow transparency, regulatory alignment, and service efficiency. Advanced proficiency in
+Excel (automation, financial modeling, complex formulas) and Python for data analysis and process optimization.
+Experienced in cross-functional leadership, HR administration, vendor coordination, and operational strategy within
+growth-focused financial institutions.
               
 ## <ins>Education</ins>
 - MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
@@ -6,53 +18,79 @@
 
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
+## <ins>Licenses and Certifications</ins>
+- Licenses: Series 7 | SIE | Life & Health
+- Certifications: Master Financial Coach
+
 ## <ins>Skills</ins>
-- Wealth Management 
-- Data Analysis
-- Data Validation & Reconciliation
-- Data Governance & Management
-- System Enhancements & Improvements
-- Data Modeling
-- Data Migration
-- Advanced Reporting
-- Python Coding and Advanced Excel
-- Communication  and Collaboration Skills
-- Analytical
-- Detail Oriented
-- Organized
-- Self-Starter and Proactive
+- Wealth Management Operations | Investment & Trading Operations | Portfolio Allocation & Cash Management |
+Operational Risk & Internal Controls | Process Improvement & Workflow Governance | Regulatory Reporting &
+Compliance Support | Account Funding & Money Movement | Vendor & Broker-Dealer Coordination
+- Advanced Excel (Automation, Financial Modeling, Complex Formulas, Macros) | Python (Data Analysis & Process
+Automation) |ADP Workforce Management | Salesforce and Redtail CRM | MoneyGuidePro and eMoney Advisor |
+Holistaplan | Nitrogen / Riskalyze | Envestnet
 
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
 ## <ins>Experience</ins> 
+### ▪️ DIRECTOR OF OPERATIONS ▪️
+***Ameriprise Financial - Crown Financial Group  |  07/2025 – 02/2026***
+- Led firm-wide operations, trading execution, HR administration, and process governance within a multifunctional
+wealth management advisory practice.
+- Designed and implemented scalable operational frameworks to improve account funding workflows, trade
+execution accuracy, and service transparency.
+- Architected integrated Excel-based trading and reporting dashboards consolidating multiple Ameriprise reports to
+automate allocation calculations, cash reserve thresholds, and share quantity execution.
+- Reduced trade processing time by 50%.
+- Identified and corrected uninvested and misaligned accounts, mitigating allocation risk and strengthening internal
+controls.
+- Established standardized task governance system to manage ongoing client service workflows and reduce
+operational bottlenecks.
+- Oversaw ADP timekeeping system and developed internal HR policies, performance standards, and attendance
+protocols.
+- Partnered with advisors and back-office teams to align operational processes with broker-dealer compliance
+standards.
+
+<br>
+
 ### ▪️ SYSTEMS AND OPERATIONS ANALYST ▪️
-***Cetera Advisor Networks - Shoemaker Financial, RIA  |  04/2020 – Present***
-- Ensured accurate reporting of several billion in assets.
-- Discovered and developed a solution to resolve inaccurate reporting in software, due to third party carrier coding.
-- Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting business. operations, and solve framework needs around operational processes.
-- Discovered code glitch effecting nearly 1,000 accounts and impacting business processing during a critical season of regulatory deadlines. Immediately took corrective action to solve the issue.  
-- Impacted organizational change by providing insights on business processes along with actionable changes and/or improvements. 
+***Cetera Advisor Networks - Shoemaker Financial, RIA  |  04/2020 – 06/2025***
+- Oversaw and validated reporting accuracy across $1.11B in managed assets, strengthening data integrity and
+regulatory reporting reliability.
+- Identified and resolved system-level coding error impacting ~1,000 accounts during regulatory reporting period,
+preventing material processing delays and compliance risk exposure.
+- Spearheaded, implemented roadmaps, and carried out multiple projects to understand and resolve issues affecting
+business operations, and solve framework needs around operational processes.
+- Impacted organizational change by providing insights on business processes along with actionable changes and/or
+improvements.
 
-### ▪️ PRACTICE MANAGER ▪️
-***Cetera Advisor Networks - Shoemaker Financial, RIA  |  04/2020 – Present***
-- Developed close working relationships and collaborated with outside vendors, back-office professionals, and home office management on business decisions and problem resolution
-- A trusted, all-access source for staff and other financial professionals when needing assistance solving a problem, navigating software, contacting third-party vendors, and troubleshooting unique situations.
-- Maintained manual databases to satisfy reporting where software systems lacked capabilities.
-- Perform administrative duties and service existing and new client accounts in every capacity.
+<br>
 
-### ▪️ FINANCIAL SERVICES PROFESSIONAL ▪️
-***Cetera Advisor Networks - Shoemaker Financial, RIA  |  04/2020 – Present***
+### ▪️ SENIOR PRACTICE MANAGER, FINANCIAL SERVICES PROFESSIONAL ▪️
+***Cetera Advisor Networks - Shoemaker Financial, RIA  |  04/2020 – 06/2025***
+- Developed close working relationships and collaborated with outside vendors, back-office professionals, and home
+office management on business decisions and problem resolutions.
+- Served as primary operational escalation point for advisors and staff, resolving complex account, vendor, and system
+issues.
+- Developed and maintained manual databases for over $312 million in assets to satisfy reporting where software
+systems lacked capabilities.
+- Managed end-to-end client account operations, service workflows, and advisory support across onboarding,
+maintenance, and regulatory servicing.
 - Successfully negotiated several million in client account retainment to maintain and create increased revenue.
-- Produced yearly reports to comply with regulations.
-- Effectively answered clients' questions about their accounts and/or products in a way they understood; giving them clarity and deepening my relationship with them, which contributed to their confidence in our team.
+- Produced yearly reports to comply with financial regulations and best practices.
+- Effectively answered clients' questions about their accounts and/or products in a way they understood; giving them
+clarity and deepening my relationship with them, which contributed to their confidence in our team.
+
+<br>
 
 ### ▪️ FOUNDER ▪️
 ***Good Works Enterprises, LLC  |  06/2017 - 04/2020***
-- Provided clarity on goals and a plan to accomplish such via Operational and Strategy Consulting Services to other business owners. 
-- Established and responsible for foundational processes for business operations and growth.
-- Built and maintained website, sales funnels, and marketing campaigns.
-- Managed partnerships and strategic business connections by negotiating contract terms and cultivating relationships.
-- Collaborated with legal, accounting, and other professional teams to review and maintain business licenses and documentation.
+- Directed operational strategy and enterprise process design for small businesses, implementing scalable systems
+that enhanced efficiency and supported sustainable growth and profitability.
+- Oversaw digital presence and revenue-generating initiatives, including website development, marketing
+campaigns, and sales funnels, aligning technology with business objectives to maximize ROI.
+- Forged and managed high-value partnerships and strategic alliances, leading contract negotiations and
+relationship management to expand market reach and strengthen competitive positioning.
 
 ## <ins>Projects</ins>
 ![Food Hub App](assets/Food Hub App Thumbnail.jpg)
