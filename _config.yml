@@ -2,7 +2,7 @@
 title: Felicia Hester
 
 # picture
-logo: /assets/FeliciaHester_ProfilePhoto.jpeg
+logo: /assets/FeliciaHester_ProfilePhoto1.jpeg
 
 #under picture
 description: 
@@ -28,7 +28,7 @@ theme: jekyll-theme-minimal
 
 author:
   name: Felicia Hester
-  picture: /assets/FeliciaHester_ProfilePhoto.jpeg
+  picture: /assets/FeliciaHester_ProfilePhoto1.jpeg
   links:
     - title: GitHub
       url: https://feliciahester.github.io/portfolio/
