@@ -19,16 +19,12 @@ growth-focused financial institutions.
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Licenses and Certifications</ins>
-- Licenses: Series 7 | SIE | Life & Health
+- Licenses: Series 7, SIE, Life & Health
 - Certifications: Master Financial Coach
 
 ## <ins>Skills</ins>
-- Wealth Management Operations | Investment & Trading Operations | Portfolio Allocation & Cash Management |
-Operational Risk & Internal Controls | Process Improvement & Workflow Governance | Regulatory Reporting &
-Compliance Support | Account Funding & Money Movement | Vendor & Broker-Dealer Coordination
-- Advanced Excel (Automation, Financial Modeling, Complex Formulas, Macros) | Python (Data Analysis & Process
-Automation) |ADP Workforce Management | Salesforce and Redtail CRM | MoneyGuidePro and eMoney Advisor |
-Holistaplan | Nitrogen / Riskalyze | Envestnet
+- Wealth Management Operations, Investment & Trading Operations, Portfolio Allocation & Cash Management, Operational Risk & Internal Controls, Process Improvement & Workflow Governance, Regulatory Reporting & Compliance Support, Account Funding & Money Movement, Vendor & Broker-Dealer Coordination
+- Advanced Excel (Automation, Financial Modeling, Complex Formulas, Macros) | Python (Data Analysis & Process Automation), ADP Workforce Management, Salesforce and Redtail CRM, MoneyGuidePro and eMoney Advisor, Holistaplan, Nitrogen / Riskalyze, Envestnet
 
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
