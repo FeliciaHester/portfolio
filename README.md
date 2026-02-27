@@ -1,4 +1,4 @@
-# Financial Services - Operations / Analyst
+# Financial Services - Operations Analyst & Strategic Processes Leadership
 
 ## <ins>Professional Summary</ins>
 Director of Operations with extensive experience leading wealth management operations, trading execution, and financial
