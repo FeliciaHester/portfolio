@@ -19,8 +19,8 @@ growth-focused financial institutions.
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Licenses and Certifications</ins>
-- **Licenses:** Series 7 &nbsp;&nbsp;·&nbsp;&nbsp; SIE &nbsp;&nbsp;·&nbsp;&nbsp; Life & Health
-- **Certifications:** Master Financial Coach
+- **Licenses:** &nbsp;&nbsp;Series 7 &nbsp;&nbsp;·&nbsp;&nbsp; SIE &nbsp;&nbsp;·&nbsp;&nbsp; Life & Health
+- **Certifications:** &nbsp;&nbsp;Master Financial Coach
 
 ## <ins>Skills</ins>
 - Wealth Management Operations &nbsp;&nbsp;·&nbsp;&nbsp; Investment & Trading Operations &nbsp;&nbsp;·&nbsp;&nbsp; Portfolio Allocation & Cash Management &nbsp;&nbsp;·&nbsp;&nbsp; Operational Risk & Internal Controls &nbsp;&nbsp;·&nbsp;&nbsp; Process Improvement & Workflow Governance &nbsp;&nbsp;·&nbsp;&nbsp; Regulatory Reporting & Compliance Support &nbsp;&nbsp;·&nbsp;&nbsp; Account Funding & Money Movement &nbsp;&nbsp;·&nbsp;&nbsp; Vendor & Broker-Dealer Coordination
