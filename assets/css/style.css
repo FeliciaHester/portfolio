@@ -1,0 +1,12 @@
+/* Hide GitHub Pages Minimal theme sidebar extras */
+header .view { 
+  display: none !important; 
+}
+
+header ul.downloads { 
+  display: none !important; 
+}
+
+footer { 
+  display: none !important; 
+}
