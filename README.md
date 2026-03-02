@@ -19,12 +19,12 @@ growth-focused financial institutions.
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
 ## <ins>Licenses and Certifications</ins>
-- **Licenses:** `Series 7` · `SIE` · `Life & Health`
-- **Certifications:** `Master Financial Coach`
+- **Licenses:** Series 7 &nbsp;&nbsp;·&nbsp;&nbsp; SIE &nbsp;&nbsp;·&nbsp;&nbsp; Life & Health
+- **Certifications:** Master Financial Coach
 
 ## <ins>Skills</ins>
-- `Wealth Management Operations` · `Investment & Trading Operations` · `Portfolio Allocation & Cash Management` · `Operational Risk & Internal Controls` · `Process Improvement & Workflow Governance` · `Regulatory Reporting & Compliance Support` · `Account Funding & Money Movement` · `Vendor & Broker-Dealer Coordination`
-- `Advanced Excel (Automation, Financial Modeling, Complex Formulas, Macros)` · `Python (Data Analysis & Process Automation)` · `ADP Workforce Management` · `Salesforce and Redtail CRM` · `MoneyGuidePro and eMoney Advisor` · `Holistaplan` · `Nitrogen / Riskalyze` · `Envestnet`
+- Wealth Management Operations &nbsp;&nbsp;·&nbsp;&nbsp; Investment & Trading Operations &nbsp;&nbsp;·&nbsp;&nbsp; Portfolio Allocation & Cash Management &nbsp;&nbsp;·&nbsp;&nbsp; Operational Risk & Internal Controls &nbsp;&nbsp;·&nbsp;&nbsp; Process Improvement & Workflow Governance &nbsp;&nbsp;·&nbsp;&nbsp; Regulatory Reporting & Compliance Support &nbsp;&nbsp;·&nbsp;&nbsp; Account Funding & Money Movement &nbsp;&nbsp;·&nbsp;&nbsp; Vendor & Broker-Dealer Coordination
+- Advanced Excel (Automation, Financial Modeling, Complex Formulas, Macros) &nbsp;&nbsp;·&nbsp;&nbsp; Python (Data Analysis & Process Automation) &nbsp;&nbsp;·&nbsp;&nbsp; ADP Workforce Management &nbsp;&nbsp;·&nbsp;&nbsp; Salesforce and Redtail CRM &nbsp;&nbsp;·&nbsp;&nbsp; MoneyGuidePro and eMoney Advisor &nbsp;&nbsp;·&nbsp;&nbsp; Holistaplan &nbsp;&nbsp;·&nbsp;&nbsp; Nitrogen / Riskalyze &nbsp;&nbsp;·&nbsp;&nbsp; Envestnet
 
 ![LeLiLi Floral Commendation](assets/LeLiLi Floral Commendation.jpg)
 
