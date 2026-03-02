@@ -13,8 +13,8 @@ Experienced in cross-functional leadership, HR administration, vendor coordinati
 growth-focused financial institutions.
               
 ## <ins>Education</ins>
-- MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
-- UNIVERSITY OF SOUTHERN MISSISSIPPI 
+- Massachusetts Institute of Technology 
+- University of Southern Mississippi 
 
 ![Overall Project Commendation](assets/Overall Project Commendation.jpg)
 
