@@ -1,0 +1,4 @@
+/* Hide GitHub Pages Minimal theme sidebar extras */
+header .view { display: none !important; }        /* View the Project / View My GitHub Profile */
+header ul.downloads { display: none !important; } /* Download buttons */
+footer { display: none !important; }              /* Maintained by + Hosted on GitHub Pages */
